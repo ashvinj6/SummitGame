@@ -1,6 +1,6 @@
 # Summit Arcade Game (1st Place at BPA Nationals!)
 
-By: Aditya Bhattacharya & Ashvin Jayanthi
+By: Ashvin Jayanthi, Aditya Bhattacharya & Azhar Haque
 
 ## How to play:
 
